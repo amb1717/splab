@@ -1,0 +1,4 @@
+razem 0
+dr-------- 2 amb pracinf 0 10-02 11:44 katalog
+-r--r--r-- 1 amb pracinf 0 10-02 11:47 prog.c
+-rw-r--r-- 1 amb pracinf 0 10-02 12:06 tekst1.txt
